@@ -35,7 +35,7 @@ python 001.py
 
 ## Progress Tracker
 
-| Problem #  | Date       | Difficulty | Solved | Notes  |
-|------------|------------|------------|--------|--------|
-| 001        | DD-MM-YY   | DIFF       | Y/N    |        |
-| ...        | ...        | ...        | ...    |        |
+| Problem #  | Date       | Difficulty | Solved | Bonus Problem Solved |
+|------------|------------|------------|--------|----------------------|
+| 001        | 26-04-25   | EASY       | Y      | N                    |
+| ...        | ...        | ...        | ...    | ...                  |
